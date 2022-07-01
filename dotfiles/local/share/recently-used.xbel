@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/shack/Downloads/BitbyByte.ovpn" added="2022-05-26T06:17:15.633497Z" modified="2022-05-30T19:02:41.264978Z" visited="2022-05-26T06:17:15.633498Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2022-05-30T18:57:31.615840Z" count="2"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-05-26T06:17:34.409106Z" count="2"/>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2022-05-30T19:02:41.264976Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shack/Downloads/BitbyByte(1).ovpn" added="2022-05-26T07:08:12.184494Z" modified="2022-05-26T07:08:12.184502Z" visited="2022-05-26T07:08:12.184494Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2022-05-26T07:08:12.184497Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shack/Downloads/ransomlettter2.zip" added="2022-05-30T22:08:27.736545Z" modified="2022-05-30T22:08:27.736563Z" visited="2022-05-30T22:08:27.736547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2022-05-30T22:08:27.736560Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shack/Downloads/ransomlettter2(1).zip" added="2022-05-30T22:08:35.016422Z" modified="2022-05-30T22:08:35.016428Z" visited="2022-05-30T22:08:35.016423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2022-05-30T22:08:35.016425Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_shack0/tmp.zip" added="2022-06-03T21:35:00.997771Z" modified="2022-06-03T21:35:00.997777Z" visited="2022-06-03T21:35:00.997772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2022-06-03T21:35:00.997774Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shack/.cache/.fr-C1zDe7/flag.txt" added="2022-06-03T21:35:04.261757Z" modified="2022-06-03T21:35:08.054058Z" visited="2022-06-03T21:35:04.261758Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2022-06-03T21:35:08.054056Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shack/Downloads/starting_point_BitbyByte.ovpn" added="2022-06-03T22:08:27.818918Z" modified="2022-06-08T05:02:57.432028Z" visited="2022-06-03T22:08:27.818920Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2022-06-08T05:02:57.432026Z" count="2"/>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2022-06-03T22:10:32.264201Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shack/Downloads/LICENSE" added="2022-06-10T00:57:25.719463Z" modified="2022-06-10T00:57:25.719468Z" visited="2022-06-10T00:57:25.719464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2022-06-10T00:57:25.719465Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
